@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://osithis.github.io/sitemap.html.gz
+Sitemap: https://osithis.github.io/app/sitemap.html.gz
+Sitemap: https://osithis.github.io/assets/sitemap.html.gz
+Sitemap: https://osithis.github.io/css/sitemap.html.gz
+Sitemap: https://osithis.github.io/includes/sitemap.html.gz
+Sitemap: https://osithis.github.io/item/sitemap.html.gz
+Sitemap: https://osithis.github.io/src/sitemap.html.gz
